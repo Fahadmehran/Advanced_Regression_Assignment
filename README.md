@@ -14,7 +14,7 @@ The company wants to know:
  
 Also, determine the optimal value of lambda for ridge and lasso regression.
 
-Business Goal 
+## Business Goal 
 
 - Build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
 - Determine the optimal value of lambda for ridge and lasso regression.
@@ -25,20 +25,20 @@ Business Goal
 ## Assignment Part-II
 The following questions are the second part of the graded assignment. Please submit the answers in one PDF file. For writing normal text, please use MS Word (or similar software that can convert documents to PDF). For equations and figures, you can write/draw them on a blank sheet of paper using a pen, click images and upload them in the same Word document.
 
-Question 1
+### Question 1
 
 What is the optimal value of alpha for ridge and lasso regression? What will be the changes in the model if you choose double the value of alpha for both ridge and lasso? What will be the most important predictor variables after the change is implemented?
 
-Question 2
+### Question 2
 
 You have determined the optimal value of lambda for ridge and lasso regression during the assignment. Now, which one will you choose to apply and why?
 
-Question 3
+### Question 3
 
 After building the model, you realised that the five most important predictor variables in the lasso model are not available in the incoming data. You will now have to create another model excluding the five most important predictor variables. Which are the five most important predictor variables now?
 
-Question 4
+### Question 4
 
 How can you make sure that a model is robust and generalisable? What are the implications of the same for the accuracy of the model and why?
 
-
+Please find the attached pdf file with the answers to the above questions.
